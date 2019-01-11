@@ -1,0 +1,28 @@
+C:\Users\Сергей\Desktop\fishmarket\fishmarket\bin\Debug\fishmarket.exe.config
+C:\Users\Сергей\Desktop\fishmarket\fishmarket\bin\Debug\fishmarket.exe
+C:\Users\Сергей\Desktop\fishmarket\fishmarket\bin\Debug\fishmarket.pdb
+C:\Users\Сергей\Desktop\fishmarket\fishmarket\obj\Debug\fishmarket.csprojAssemblyReference.cache
+C:\Users\Сергей\Desktop\fishmarket\fishmarket\obj\Debug\fishmarket.MainForm.resources
+C:\Users\Сергей\Desktop\fishmarket\fishmarket\obj\Debug\fishmarket.Properties.Resources.resources
+C:\Users\Сергей\Desktop\fishmarket\fishmarket\obj\Debug\fishmarket.TipeAddForm.resources
+C:\Users\Сергей\Desktop\fishmarket\fishmarket\obj\Debug\fishmarket.TipeChangeForm.resources
+C:\Users\Сергей\Desktop\fishmarket\fishmarket\obj\Debug\fishmarket.TipeFilterForm.resources
+C:\Users\Сергей\Desktop\fishmarket\fishmarket\obj\Debug\fishmarket.TipeForm.resources
+C:\Users\Сергей\Desktop\fishmarket\fishmarket\obj\Debug\fishmarket.csproj.GenerateResource.cache
+C:\Users\Сергей\Desktop\fishmarket\fishmarket\obj\Debug\fishmarket.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\fishmarket\fishmarket\obj\Debug\fishmarket.exe
+C:\Users\Сергей\Desktop\fishmarket\fishmarket\obj\Debug\fishmarket.pdb
+C:\Users\dolg1\OneDrive\Рабочий стол\fishmarket\fishmarket\bin\Debug\fishmarket.exe.config
+C:\Users\dolg1\OneDrive\Рабочий стол\fishmarket\fishmarket\bin\Debug\fishmarket.exe
+C:\Users\dolg1\OneDrive\Рабочий стол\fishmarket\fishmarket\bin\Debug\fishmarket.pdb
+C:\Users\dolg1\OneDrive\Рабочий стол\fishmarket\fishmarket\obj\Debug\fishmarket.csprojAssemblyReference.cache
+C:\Users\dolg1\OneDrive\Рабочий стол\fishmarket\fishmarket\obj\Debug\fishmarket.MainForm.resources
+C:\Users\dolg1\OneDrive\Рабочий стол\fishmarket\fishmarket\obj\Debug\fishmarket.Properties.Resources.resources
+C:\Users\dolg1\OneDrive\Рабочий стол\fishmarket\fishmarket\obj\Debug\fishmarket.TipeForm.resources
+C:\Users\dolg1\OneDrive\Рабочий стол\fishmarket\fishmarket\obj\Debug\fishmarket.csproj.GenerateResource.cache
+C:\Users\dolg1\OneDrive\Рабочий стол\fishmarket\fishmarket\obj\Debug\fishmarket.csproj.CoreCompileInputs.cache
+C:\Users\dolg1\OneDrive\Рабочий стол\fishmarket\fishmarket\obj\Debug\fishmarket.exe
+C:\Users\dolg1\OneDrive\Рабочий стол\fishmarket\fishmarket\obj\Debug\fishmarket.pdb
+C:\Users\dolg1\OneDrive\Рабочий стол\fishmarket\fishmarket\obj\Debug\fishmarket.ProductsForm.resources
+C:\Users\dolg1\OneDrive\Рабочий стол\fishmarket\fishmarket\obj\Debug\fishmarket.OrderForm.resources
+C:\Users\dolg1\OneDrive\Рабочий стол\fishmarket\fishmarket\obj\Debug\fishmarket.SuppliersForm.resources
